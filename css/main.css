@@ -427,12 +427,13 @@ textarea, label {
 
 .page-home .hexagon-item:nth-last-child(1),
 .page-home .hexagon-item:nth-last-child(2),
-.page-home .hexagon-item:nth-last-child(3) {
+.page-home .hexagon-item:nth-last-child(3),
+.page-home .hexagon-item:nth-last-child(4) {
   -webkit-transform: rotate(30deg) translate(87px, -80px);
   -moz-transform: rotate(30deg) translate(87px, -80px);
   -ms-transform: rotate(30deg) translate(87px, -80px);
   -o-transform: rotate(30deg) translate(87px, -80px);
-  transform: rotate(30deg) translate(87px, -80px);
+  transform: rotate(30deg) translate(-1px, -4px);
 }
 
 .hex-item {
