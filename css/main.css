@@ -2,14 +2,14 @@
 	Base Styles
 -------------------------------------------------*/
 @font-face {
-  font-family: 'KOTRAHOPE';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/KOTRAHOPE.woff2') format('woff2');
+  font-family: 'GangwonEduSaeeum_OTFMediumA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduSaeeum_OTFMediumA.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 body {
-  font-family: "KOTRAHOPE", serif;
+  font-family: 'GangwonEduSaeeum_OTFMediumA';
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
@@ -602,13 +602,13 @@ textarea, label {
 }
 .about-author .author-desc p {
   color: #1e2530;
-  font-family: "KOTRAHOPE", serif;
+  font-family: "GangwonEduSaeeum_OTFMediumA", serif;
   letter-spacing: 1px;
   margin-bottom: 4px;
   text-transform: uppercase;
 }
 .about-author .author-desc b {
-  font-family: "KOTRAHOPE", serif;
+  font-family: "GangwonEduSaeeum_OTFMediumA", serif;
 }
 
 .progress {
