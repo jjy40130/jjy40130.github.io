@@ -591,10 +591,9 @@ textarea, label {
   display: flex;
 }
 .about-author .author-thumb {
-  background-color: #fff;
+  background-color: #0c0f15;
   border: 5px solid #1e2530;
   margin-right: 30px;
-  padding: 5px;
 }
 .about-author .author-thumb img {
   border: 2px solid #1e2530;
